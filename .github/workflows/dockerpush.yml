@@ -15,7 +15,7 @@ on:
 
 env:
   IMAGE_REPOSITORY: cyrilix
-  IMAGE_NAME: coral-edgetpu
+  IMAGE_NAME: numpy
 
 jobs:
   # Run tests.
